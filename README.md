@@ -1,1 +1,1 @@
-# -CyberSec-Journey
+# CyberSec-Journey
