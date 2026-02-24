@@ -2,10 +2,10 @@
 👤 About Me
 | Field | Details |
 |-------|---------|
-| Name | [Srinish Basu] |
+| Name | Srinish Basu |
 | University | KIIT University |
-| Year | [1st Year] |
-| Branch | [Computer Science and Engineering with specialisation in Cybersecurity ] |
+| Year | 1st Year |
+| Branch | Computer Science and Engineering with specialisation in Cybersecurity |
 | Society | Cyber Peace Corps |
 | Domain | [Will be assigned after rotations] |
 | TryHackMe | https://tryhackme.com/p/srinishbasu|
