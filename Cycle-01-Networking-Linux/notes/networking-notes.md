@@ -41,10 +41,10 @@ UDP vs TCP
 
 1. HTTP (Port 80) – Used for accessing websites on the internet (non-secure).
 2. HTTPS (Port 443) – Secure version of HTTP, used for safe communication.
-3.FTP (Port 21) – Used for transferring files between computers.
-4.SFTP (Port 22) – Secure file transfer over SSH.
-5.SSH (Port 22) – Used for secure remote login to systems.
-6.Telnet (Port 23) – Used for remote login, but not secure.
+3. FTP (Port 21) – Used for transferring files between computers.
+4. SFTP (Port 22) – Secure file transfer over SSH.
+5. SSH (Port 22) – Used for secure remote login to systems.
+6. Telnet (Port 23) – Used for remote login, but not secure.
 7. SMTP (Port 25) – Used for sending emails.
 8. DNS (Port 53) – Converts domain names into IP addresses.
 9. POP3 (Port 110) – Used to receive/download emails.
