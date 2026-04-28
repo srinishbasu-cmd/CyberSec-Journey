@@ -38,6 +38,7 @@ UDP vs TCP
 | UDP used when speed is more important than reliability. Foe example in video streaming, online gaming. | TCP is used when reliable delivery of Data is required. For example in web browsing, emails. |
 
 10 common protocols with their port numbers 
+
 HTTP (Port 80) – Used for accessing websites on the internet (non-secure).
 HTTPS (Port 443) – Secure version of HTTP, used for safe communication.
 FTP (Port 21) – Used for transferring files between computers.
@@ -50,6 +51,7 @@ POP3 (Port 110) – Used to receive/download emails.
 IMAP (Port 143) – Used to access emails and keep them synced across devices.
 
 How DNS works 
+
 The working of DNS can be explained in the following steps:
 Browser Cache Check
 When a user enters a website URL, the browser first checks if it already knows the IP address from previous visits.
