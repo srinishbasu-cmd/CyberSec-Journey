@@ -49,7 +49,7 @@ UDP vs TCP
 8. DNS (Port 53) – Converts domain names into IP addresses.
 9. POP3 (Port 110) – Used to receive/download emails.
 10. IMAP (Port 143) – Used to access emails and keep them synced across devices.
-
+ 
 How DNS works 
 
 The working of DNS can be explained in the following steps:
